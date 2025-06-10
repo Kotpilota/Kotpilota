@@ -49,18 +49,18 @@ Backend-разработчик с опытом создания REST API, нас
 
 ## 📂 Основные проекты
 
-### [Foodgram](https://github.com/Kotpilota/foodgram)
+### [Foodgram](https://github.com/Kotpilota/foodgram) - [Посмотреть](https://foodgram.kotpilota.ru/recipes)
 **Сервис для публикации и хранения рецептов**
 - **Стек:** Python, Django, Django REST Framework, PostgreSQL, Docker, Nginx
 - **Особенности:** Авторизация через Djoser и JWT, подписки на авторов, избранное, список покупок
 - **DevOps:** CI/CD на GitHub Actions, деплой с Docker и Nginx
 
-### [Kittygram](https://github.com/Kotpilota/kittygram_final)
+### [Kittygram](https://github.com/Kotpilota/kittygram_final) - [Посмотреть](https://kittygram.kotpilota.ru/)
 **REST API для размещения информации о кошках**
 - **Стек:** Python, Django, REST API, Docker
 - **DevOps:** CI/CD на GitHub Actions, деплой с Docker и Nginx
 
-### [CryptoChecker Bot](https://github.com/Kotpilota/crypto_tracker_bot)
+### [CryptoChecker Bot](https://github.com/Kotpilota/crypto_tracker_bot) - [Посмотреть](https://t.me/FPICourseBot)
 **Telegram-бот для отслеживания цен криптовалют**
 - **Стек:** Python, Telegram Bot API, python-telegram-bot
 - **Особенности:** Интеграция с API криптобиржи, уведомления об изменении курса
