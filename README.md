@@ -30,7 +30,7 @@
 
 Стек: Python, Django, Docker, CI/CD, nginx, gunicorn.
 
-### [Проект по тестированию Django приложений](https://github.com/Kotpilota/Testing_django)
+### [Проект по тестированию Django приложений](https://github.com/Kotpilota/django_testing)
 Включает тестирование моделей, представлений, форм, API endpoints с использованием unittest и pytest. Реализованы фикстуры, параметризованные тесты, проверка доступности страниц и корректности отображения данных. 
 
 Стек: Python, Django, unittest, pytest.
