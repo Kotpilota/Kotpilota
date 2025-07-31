@@ -1,10 +1,3 @@
-# Python Developer # 
-
-📍 Москва, Россия  
-- 📧 danilshifman07@gmail.com
-- 📱 Телефон: +7 (977) 331-40-29
-- ✈️ Telegram: @kotpilota
-
 ## 🛠 Технический стек
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,8 +33,13 @@ Telegram-бот для отслеживания криптовалют — бо�
 
 Стек: Python, Telegram Bot API, SQLite, CoinGecko API, requests.
 
+
 ## 📊 GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kotpilota&show_icons=true&theme=default)
+<div style="display: flex; gap: 80px; justify-content: center; align-items: center; flex-wrap: wrap;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotpilota&layout=compact&theme=default)
+  <img src="https://github-readme-stats.vercel.app/api?username=Kotpilota&show_icons=true&theme=default" alt="GitHub Stats" style="width: auto; height: 200px;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotpilota&layout=compact&theme=default" alt="Top Languages" style="width: auto; height: 200px;" />
+
+</div>
